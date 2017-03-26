@@ -26,8 +26,10 @@ habitat 				= {'g': 'grasses', 'l': 'leaves', 'm': 'meadows', 'p': 'paths', 'u':
 variables 				= [capShape,capSurface,capColor,bruises,odor,gillAttachment,gillSpacing,gillSize,gillColor,stalkShape,stalkRoot,stalkSurfaceAboveRing,stalkSurfaceBelowRing,stalkColorAboveRing,stalkColorBelowRing,veilType,veilColor,ringNumber,ringType,sporePrintColor,population,habitat]
 translator				= {'a': 0, 'b': 1, 'c': 2, 'd': 3, 'e': 4, 'f': 5, 'g': 6, 'h': 7, 'k': 8, 'l': 9, 'm': 10, 'n': 11, 'o': 12, 'p': 13, 'r': 14, 's': 15, 't': 16, 'u': 17, 'v': 18, 'x': 19, 'w': 20, 'y': 21, 'z': 22, '?': 23}
 
+classifier 				= {'e': 'edible', 'p': 'poisonous', 0: 'edible', 1: 'poisonous'}
 
-def translate(values, to):
+
+def translateValues(values, to):
 	values = values[:]
 	if to == 'int': #char para int
 		for i in range(len(values)):
@@ -35,7 +37,30 @@ def translate(values, to):
 	elif to == 'str': #char para string
 		for i in range(len(values)):
 			values[i] = [variables[values[i].index(x)][x] for x in values[i]]
+	else:
+		print "Converter apenas para 'int' ou 'str'!"
+		return null
 	return values
+
+def translateLine(values):
+	values = values[:]
+	for i in range(len(values)):
+		values[i] = variables[i][getKey(translator, values[i])]
+	return values
+
+def translateClassifier(values, to):
+	values = values[:]
+	if to == 'int':
+		for i in range(len(values)):
+			values[i] = 1 if values[i] == 'p' else 0
+	elif to == 'str':
+		for i in range(len(values)):
+			values[i] = classifier[values[i]]
+	else:
+		print "Converter apenas para 'int' ou 'str'!"
+		return null
+	return values
+
 
 
 def getKey(dictionary, fromValue):

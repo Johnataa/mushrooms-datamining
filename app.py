@@ -1,33 +1,15 @@
 # -*- coding: utf-8 -*-
 
-import libraryMushroom as lm
+from data import Data
+from svm import SVM
+from time import time
 
-class Data:
-	header = None
-	X = []
-	y = []
+data = Data("mushrooms.csv")
 
-	def readCSV(self, path):
-		arq = open(path, "r")
-
-		self.header = arq.readline().replace("\n","").split(",")
-		self.header.pop(0) # remove coluna classificadora
-
-		for x in arq.readlines():
-			self.X.append(x.replace("\n", "").split(","))
-			self.y.append(self.X[-1].pop(0))
-
-		arq.close()
-
-
-
-data = Data()
-data.readCSV("mushrooms.csv")
-
-aux = lm.translate(data.X, 'int')
-for i in range(0,5):
-	print aux[i]
-
-aux = lm.translate(data.X, 'str')
-for i in range(0,5):
-	print aux[i]
+method = SVM(data)
+i = time()
+method.train()
+method.predict()
+f = time()
+print f-i
+print method.getPercentage()
