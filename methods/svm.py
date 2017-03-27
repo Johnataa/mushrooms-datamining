@@ -12,7 +12,7 @@ class SVM:
 
 	def __init__(self, data):
 		self.data 	= data
-		self.svc 	= SVC(kernel="poly", degree=15, verbose=True)
+		self.svc 	= SVC(kernel="poly", degree=15)
 
 
 	def train(self):
