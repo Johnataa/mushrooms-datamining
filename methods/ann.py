@@ -11,9 +11,9 @@ class ANN:
 
 
 	def __init__(self, data):
+		print 'ANN Method'
 		self.data 	= data
-		self.ann 	= MLPClassifier(alpha=0.005)
-
+		self.ann 	= MLPClassifier(activation='relu', solver='lbfgs', alpha=0.01, momentum=0.3, epsilon=1e-06)
 
 	def train(self):
 		self.ann.fit(self.data.x_train, self.data.y_train)

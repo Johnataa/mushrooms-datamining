@@ -11,9 +11,9 @@ class SVM:
 
 
 	def __init__(self, data):
+		print 'SVM Method'
 		self.data 	= data
-		self.svc 	= SVC(kernel="poly", degree=15)
-
+		self.svc 	= SVC(kernel='poly', degree=14, gamma=0.02, coef0=1.5)
 
 	def train(self):
 		self.svc.fit(self.data.x_train, self.data.y_train)

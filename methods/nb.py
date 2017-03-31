@@ -11,9 +11,9 @@ class NaiveBayes:
 
 
 	def __init__(self, data):
+		print 'NaiveBayes Method'
 		self.data 	= data
 		self.nb 	= GaussianNB(priors=None)
-
 
 	def train(self):
 		self.nb.fit(self.data.x_train, self.data.y_train)
