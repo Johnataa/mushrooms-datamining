@@ -1,0 +1,8950 @@
+Teste: #1
+Tempo: 0.258818864822
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.02
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #2
+Tempo: 0.274434089661
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.02
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #3
+Tempo: 0.258100032806
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.02
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #4
+Tempo: 0.247132062912
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.02
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #5
+Tempo: 0.23212480545
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.02
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #6
+Tempo: 0.238345861435
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.02
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #7
+Tempo: 0.239502906799
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.02
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #8
+Tempo: 0.244108200073
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.02
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #9
+Tempo: 0.241055011749
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.02
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #10
+Tempo: 0.233085870743
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.02
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #11
+Tempo: 0.232622146606
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.04
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #12
+Tempo: 0.234082937241
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.04
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #13
+Tempo: 0.239784955978
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.04
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #14
+Tempo: 0.237218141556
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.04
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #15
+Tempo: 0.231904983521
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.04
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #16
+Tempo: 0.238630056381
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.04
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #17
+Tempo: 0.239789009094
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.04
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #18
+Tempo: 0.233202219009
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.04
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #19
+Tempo: 0.227003097534
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.04
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #20
+Tempo: 0.236887931824
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.04
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #21
+Tempo: 0.227985143661
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.06
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #22
+Tempo: 0.23942399025
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.06
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #23
+Tempo: 0.233972072601
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.06
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #24
+Tempo: 0.237413883209
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.06
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #25
+Tempo: 0.243577957153
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.06
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #26
+Tempo: 0.240712165833
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.06
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #27
+Tempo: 0.227922916412
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.06
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #28
+Tempo: 0.256045103073
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.06
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #29
+Tempo: 0.247790813446
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.06
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #30
+Tempo: 0.233805179596
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.06
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #31
+Tempo: 0.228955984116
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.08
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #32
+Tempo: 0.226639032364
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.08
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #33
+Tempo: 0.237488985062
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.08
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #34
+Tempo: 0.222898006439
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.08
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #35
+Tempo: 0.232956171036
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.08
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #36
+Tempo: 0.235224962234
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.08
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #37
+Tempo: 0.231798887253
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.08
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #38
+Tempo: 0.235135793686
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.08
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #39
+Tempo: 0.225091934204
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.08
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #40
+Tempo: 0.230485916138
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.08
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #41
+Tempo: 0.224922895432
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.1
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #42
+Tempo: 0.221112012863
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.1
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #43
+Tempo: 0.226999998093
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.1
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #44
+Tempo: 0.223523139954
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.1
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #45
+Tempo: 0.228237867355
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.1
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #46
+Tempo: 0.222217798233
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.1
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #47
+Tempo: 0.222443819046
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.1
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #48
+Tempo: 0.23757314682
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.1
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #49
+Tempo: 0.237329006195
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.1
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #50
+Tempo: 0.237405061722
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 3
+Gamma: 0.1
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #51
+Tempo: 0.199103116989
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.02
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #52
+Tempo: 0.192284822464
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.02
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #53
+Tempo: 0.195851802826
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.02
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #54
+Tempo: 0.196095943451
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.02
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #55
+Tempo: 0.191484928131
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.02
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #56
+Tempo: 0.192543029785
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.02
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #57
+Tempo: 0.197046041489
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.02
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #58
+Tempo: 0.192749977112
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.02
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #59
+Tempo: 0.203162193298
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.02
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #60
+Tempo: 0.20455789566
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.02
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #61
+Tempo: 0.196229934692
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.04
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #62
+Tempo: 0.199661970139
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.04
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #63
+Tempo: 0.192035913467
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.04
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #64
+Tempo: 0.194425106049
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.04
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #65
+Tempo: 0.193960905075
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.04
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #66
+Tempo: 0.18959403038
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.04
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #67
+Tempo: 0.198249816895
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.04
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #68
+Tempo: 0.199593067169
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.04
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #69
+Tempo: 0.190891981125
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.04
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #70
+Tempo: 0.194304943085
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.04
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #71
+Tempo: 0.193259000778
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.06
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #72
+Tempo: 0.199096918106
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.06
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #73
+Tempo: 0.198854923248
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.06
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #74
+Tempo: 0.199288129807
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.06
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #75
+Tempo: 0.200348138809
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.06
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #76
+Tempo: 0.20831489563
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.06
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #77
+Tempo: 0.200793027878
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.06
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #78
+Tempo: 0.196772098541
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.06
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #79
+Tempo: 0.195726156235
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.06
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #80
+Tempo: 0.194546937943
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.06
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #81
+Tempo: 0.19655919075
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.08
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #82
+Tempo: 0.19856095314
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.08
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #83
+Tempo: 0.202843904495
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.08
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #84
+Tempo: 0.194486856461
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.08
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #85
+Tempo: 0.192893981934
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.08
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #86
+Tempo: 0.190155982971
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.08
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #87
+Tempo: 0.194813013077
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.08
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #88
+Tempo: 0.191312074661
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.08
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #89
+Tempo: 0.195306062698
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.08
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #90
+Tempo: 0.19381403923
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.08
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #91
+Tempo: 0.197278022766
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.1
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #92
+Tempo: 0.203076124191
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.1
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #93
+Tempo: 0.192178964615
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.1
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #94
+Tempo: 0.190442085266
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.1
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #95
+Tempo: 0.193776130676
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.1
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #96
+Tempo: 0.194218873978
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.1
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #97
+Tempo: 0.20094203949
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.1
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #98
+Tempo: 0.185323953629
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.1
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #99
+Tempo: 0.194405794144
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.1
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #100
+Tempo: 0.19727897644
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 4
+Gamma: 0.1
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #101
+Tempo: 0.175072908401
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.02
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #102
+Tempo: 0.183543920517
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.02
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #103
+Tempo: 0.188720941544
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.02
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #104
+Tempo: 0.179435968399
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.02
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #105
+Tempo: 0.173227071762
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.02
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #106
+Tempo: 0.183126926422
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.02
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #107
+Tempo: 0.175444126129
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.02
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #108
+Tempo: 0.180912017822
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.02
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #109
+Tempo: 0.178425073624
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.02
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #110
+Tempo: 0.18089222908
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.02
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #111
+Tempo: 0.175658941269
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.04
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #112
+Tempo: 0.177155971527
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.04
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #113
+Tempo: 0.182313919067
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.04
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #114
+Tempo: 0.177412986755
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.04
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #115
+Tempo: 0.187446832657
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.04
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #116
+Tempo: 0.179708003998
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.04
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #117
+Tempo: 0.180140972137
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.04
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #118
+Tempo: 0.175267934799
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.04
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #119
+Tempo: 0.180333137512
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.04
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #120
+Tempo: 0.184773921967
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.04
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #121
+Tempo: 0.179934978485
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.06
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #122
+Tempo: 0.17799115181
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.06
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #123
+Tempo: 0.1867852211
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.06
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #124
+Tempo: 0.18064904213
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.06
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #125
+Tempo: 0.181082010269
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.06
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #126
+Tempo: 0.187805891037
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.06
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #127
+Tempo: 0.186247110367
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.06
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #128
+Tempo: 0.183060884476
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.06
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #129
+Tempo: 0.178864955902
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.06
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #130
+Tempo: 0.184267044067
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.06
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #131
+Tempo: 0.174317121506
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.08
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #132
+Tempo: 0.179636001587
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.08
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #133
+Tempo: 0.17648601532
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.08
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #134
+Tempo: 0.180827856064
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.08
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #135
+Tempo: 0.183742046356
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.08
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #136
+Tempo: 0.175051927567
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.08
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #137
+Tempo: 0.180549860001
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.08
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #138
+Tempo: 0.181073188782
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.08
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #139
+Tempo: 0.187776088715
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.08
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #140
+Tempo: 0.182883024216
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.08
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #141
+Tempo: 0.179109096527
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.1
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #142
+Tempo: 0.179028987885
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.1
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #143
+Tempo: 0.184510946274
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.1
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #144
+Tempo: 0.180918931961
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.1
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #145
+Tempo: 0.183169126511
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.1
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #146
+Tempo: 0.186891078949
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.1
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #147
+Tempo: 0.176247835159
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.1
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #148
+Tempo: 0.173674106598
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.1
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #149
+Tempo: 0.183120012283
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.1
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #150
+Tempo: 0.177989006042
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 5
+Gamma: 0.1
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #151
+Tempo: 0.164459943771
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.02
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #152
+Tempo: 0.164710998535
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.02
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #153
+Tempo: 0.163514137268
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.02
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #154
+Tempo: 0.170273065567
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.02
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #155
+Tempo: 0.164112091064
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.02
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #156
+Tempo: 0.169541835785
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.02
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #157
+Tempo: 0.168071985245
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.02
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #158
+Tempo: 0.166844129562
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.02
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #159
+Tempo: 0.167927026749
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.02
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #160
+Tempo: 0.168586969376
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.02
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #161
+Tempo: 0.163884878159
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.04
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #162
+Tempo: 0.159945964813
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.04
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #163
+Tempo: 0.16345500946
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.04
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #164
+Tempo: 0.165839195251
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.04
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #165
+Tempo: 0.163482904434
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.04
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #166
+Tempo: 0.168183088303
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.04
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #167
+Tempo: 0.167392015457
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.04
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #168
+Tempo: 0.163605928421
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.04
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #169
+Tempo: 0.163390874863
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.04
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #170
+Tempo: 0.166594982147
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.04
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #171
+Tempo: 0.162518024445
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.06
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #172
+Tempo: 0.164427995682
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.06
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #173
+Tempo: 0.162677049637
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.06
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #174
+Tempo: 0.163952827454
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.06
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #175
+Tempo: 0.161288022995
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.06
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #176
+Tempo: 0.163604974747
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.06
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #177
+Tempo: 0.162402868271
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.06
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #178
+Tempo: 0.163515806198
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.06
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #179
+Tempo: 0.164615154266
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.06
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #180
+Tempo: 0.164021015167
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.06
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #181
+Tempo: 0.166303873062
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.08
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #182
+Tempo: 0.162774085999
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.08
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #183
+Tempo: 0.162635087967
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.08
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #184
+Tempo: 0.162795066833
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.08
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #185
+Tempo: 0.16615486145
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.08
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #186
+Tempo: 0.166269779205
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.08
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #187
+Tempo: 0.169170856476
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.08
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #188
+Tempo: 0.165361881256
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.08
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #189
+Tempo: 0.165254116058
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.08
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #190
+Tempo: 0.16801905632
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.08
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #191
+Tempo: 0.16415810585
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.1
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #192
+Tempo: 0.164910078049
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.1
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #193
+Tempo: 0.160660982132
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.1
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #194
+Tempo: 0.167778015137
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.1
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #195
+Tempo: 0.164880037308
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.1
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #196
+Tempo: 0.165896892548
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.1
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #197
+Tempo: 0.165083169937
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.1
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #198
+Tempo: 0.162600040436
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.1
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #199
+Tempo: 0.16761302948
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.1
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #200
+Tempo: 0.16304898262
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 6
+Gamma: 0.1
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #201
+Tempo: 0.16937994957
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.02
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #202
+Tempo: 0.161707162857
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.02
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #203
+Tempo: 0.167356014252
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.02
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #204
+Tempo: 0.165375947952
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.02
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #205
+Tempo: 0.165743112564
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.02
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #206
+Tempo: 0.160256147385
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.02
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #207
+Tempo: 0.161714076996
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.02
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #208
+Tempo: 0.159965991974
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.02
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #209
+Tempo: 0.168370962143
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.02
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #210
+Tempo: 0.16860294342
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.02
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #211
+Tempo: 0.168864011765
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.04
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #212
+Tempo: 0.16121006012
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.04
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #213
+Tempo: 0.163619041443
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.04
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #214
+Tempo: 0.157711982727
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.04
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #215
+Tempo: 0.165720939636
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.04
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #216
+Tempo: 0.162548065186
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.04
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #217
+Tempo: 0.165947914124
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.04
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #218
+Tempo: 0.165590047836
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.04
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #219
+Tempo: 0.16476893425
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.04
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #220
+Tempo: 0.162642002106
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.04
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #221
+Tempo: 0.165030956268
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.06
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #222
+Tempo: 0.163136005402
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.06
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #223
+Tempo: 0.160853147507
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.06
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #224
+Tempo: 0.159442186356
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.06
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #225
+Tempo: 0.166652202606
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.06
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #226
+Tempo: 0.159504890442
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.06
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #227
+Tempo: 0.166167020798
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.06
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #228
+Tempo: 0.162698030472
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.06
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #229
+Tempo: 0.164423942566
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.06
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #230
+Tempo: 0.161738157272
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.06
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #231
+Tempo: 0.167906999588
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.08
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #232
+Tempo: 0.163729190826
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.08
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #233
+Tempo: 0.160549879074
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.08
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #234
+Tempo: 0.163161039352
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.08
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #235
+Tempo: 0.164809942245
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.08
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #236
+Tempo: 0.16308093071
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.08
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #237
+Tempo: 0.156826972961
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.08
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #238
+Tempo: 0.163298130035
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.08
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #239
+Tempo: 0.167963027954
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.08
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #240
+Tempo: 0.16374206543
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.08
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #241
+Tempo: 0.167647123337
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.1
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #242
+Tempo: 0.161509037018
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.1
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #243
+Tempo: 0.164405107498
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.1
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #244
+Tempo: 0.159085035324
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.1
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #245
+Tempo: 0.160622119904
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.1
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #246
+Tempo: 0.160360097885
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.1
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #247
+Tempo: 0.163289070129
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.1
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #248
+Tempo: 0.160066127777
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.1
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #249
+Tempo: 0.159188985825
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.1
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #250
+Tempo: 0.166299819946
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 7
+Gamma: 0.1
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #251
+Tempo: 0.160184144974
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.02
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #252
+Tempo: 0.155839204788
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.02
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #253
+Tempo: 0.152856111526
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.02
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #254
+Tempo: 0.156813144684
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.02
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #255
+Tempo: 0.154514789581
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.02
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #256
+Tempo: 0.153846025467
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.02
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #257
+Tempo: 0.154456138611
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.02
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #258
+Tempo: 0.154228925705
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.02
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #259
+Tempo: 0.15579199791
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.02
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #260
+Tempo: 0.161280155182
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.02
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #261
+Tempo: 0.161510944366
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.04
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #262
+Tempo: 0.158708810806
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.04
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #263
+Tempo: 0.156361103058
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.04
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #264
+Tempo: 0.156944036484
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.04
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #265
+Tempo: 0.152668952942
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.04
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #266
+Tempo: 0.158336162567
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.04
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #267
+Tempo: 0.156534910202
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.04
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #268
+Tempo: 0.164237976074
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.04
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #269
+Tempo: 0.154088020325
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.04
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #270
+Tempo: 0.155651807785
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.04
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #271
+Tempo: 0.156185150146
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.06
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #272
+Tempo: 0.156075954437
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.06
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #273
+Tempo: 0.158252000809
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.06
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #274
+Tempo: 0.177355051041
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.06
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #275
+Tempo: 0.160980939865
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.06
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #276
+Tempo: 0.154818058014
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.06
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #277
+Tempo: 0.152357816696
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.06
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #278
+Tempo: 0.158796072006
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.06
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #279
+Tempo: 0.160611867905
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.06
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #280
+Tempo: 0.157006025314
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.06
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #281
+Tempo: 0.161109924316
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.08
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #282
+Tempo: 0.152545928955
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.08
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #283
+Tempo: 0.158520936966
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.08
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #284
+Tempo: 0.158397912979
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.08
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #285
+Tempo: 0.156607866287
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.08
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #286
+Tempo: 0.155854225159
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.08
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #287
+Tempo: 0.15629696846
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.08
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #288
+Tempo: 0.154182195663
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.08
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #289
+Tempo: 0.151203155518
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.08
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #290
+Tempo: 0.154377937317
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.08
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #291
+Tempo: 0.153084993362
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.1
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #292
+Tempo: 0.155411958694
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.1
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #293
+Tempo: 0.156563997269
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.1
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #294
+Tempo: 0.154350042343
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.1
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #295
+Tempo: 0.156287908554
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.1
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #296
+Tempo: 0.161064863205
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.1
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #297
+Tempo: 0.152951002121
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.1
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #298
+Tempo: 0.157435894012
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.1
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #299
+Tempo: 0.154277086258
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.1
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #300
+Tempo: 0.150697946548
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 8
+Gamma: 0.1
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #301
+Tempo: 0.143649101257
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.02
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #302
+Tempo: 0.150865793228
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.02
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #303
+Tempo: 0.146134138107
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.02
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #304
+Tempo: 0.149117946625
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.02
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #305
+Tempo: 0.145129919052
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.02
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #306
+Tempo: 0.1414270401
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.02
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #307
+Tempo: 0.147202968597
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.02
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #308
+Tempo: 0.156157970428
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.02
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #309
+Tempo: 0.14946103096
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.02
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #310
+Tempo: 0.154160022736
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.02
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #311
+Tempo: 0.146054029465
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.04
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #312
+Tempo: 0.150366067886
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.04
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #313
+Tempo: 0.14889383316
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.04
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #314
+Tempo: 0.142378807068
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.04
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #315
+Tempo: 0.146384954453
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.04
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #316
+Tempo: 0.144346952438
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.04
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #317
+Tempo: 0.148078918457
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.04
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #318
+Tempo: 0.150026082993
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.04
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #319
+Tempo: 0.147001981735
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.04
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #320
+Tempo: 0.149402141571
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.04
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #321
+Tempo: 0.143949985504
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.06
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #322
+Tempo: 0.147092819214
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.06
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #323
+Tempo: 0.149425029755
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.06
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #324
+Tempo: 0.154519081116
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.06
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #325
+Tempo: 0.148194074631
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.06
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #326
+Tempo: 0.14753484726
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.06
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #327
+Tempo: 0.144789934158
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.06
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #328
+Tempo: 0.144987106323
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.06
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #329
+Tempo: 0.145975828171
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.06
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #330
+Tempo: 0.149513959885
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.06
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #331
+Tempo: 0.145744085312
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.08
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #332
+Tempo: 0.146443128586
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.08
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #333
+Tempo: 0.14924287796
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.08
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #334
+Tempo: 0.150079965591
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.08
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #335
+Tempo: 0.149365901947
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.08
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #336
+Tempo: 0.144170999527
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.08
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #337
+Tempo: 0.142699956894
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.08
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #338
+Tempo: 0.142461776733
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.08
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #339
+Tempo: 0.145745992661
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.08
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #340
+Tempo: 0.145849943161
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.08
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #341
+Tempo: 0.145581960678
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.1
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #342
+Tempo: 0.145481109619
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.1
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #343
+Tempo: 0.145054101944
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.1
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #344
+Tempo: 0.147036075592
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.1
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #345
+Tempo: 0.145936012268
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.1
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #346
+Tempo: 0.146787881851
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.1
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #347
+Tempo: 0.147033929825
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.1
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #348
+Tempo: 0.143997192383
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.1
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #349
+Tempo: 0.144609928131
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.1
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #350
+Tempo: 0.144674062729
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 9
+Gamma: 0.1
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #351
+Tempo: 0.143057107925
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.02
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #352
+Tempo: 0.144464015961
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.02
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #353
+Tempo: 0.144510030746
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.02
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #354
+Tempo: 0.143933057785
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.02
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #355
+Tempo: 0.15153503418
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.02
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #356
+Tempo: 0.142889976501
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.02
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #357
+Tempo: 0.135987043381
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.02
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #358
+Tempo: 0.142868995667
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.02
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #359
+Tempo: 0.139492034912
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.02
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #360
+Tempo: 0.144637823105
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.02
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #361
+Tempo: 0.143334150314
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.04
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #362
+Tempo: 0.144880056381
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.04
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #363
+Tempo: 0.144767045975
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.04
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #364
+Tempo: 0.141696929932
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.04
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #365
+Tempo: 0.143711090088
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.04
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #366
+Tempo: 0.136374950409
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.04
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #367
+Tempo: 0.144685029984
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.04
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #368
+Tempo: 0.1427090168
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.04
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #369
+Tempo: 0.149949073792
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.04
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #370
+Tempo: 0.141623973846
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.04
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #371
+Tempo: 0.140295982361
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.06
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #372
+Tempo: 0.140377998352
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.06
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #373
+Tempo: 0.139417171478
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.06
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #374
+Tempo: 0.14403295517
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.06
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #375
+Tempo: 0.141804933548
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.06
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #376
+Tempo: 0.140384912491
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.06
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #377
+Tempo: 0.148281097412
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.06
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #378
+Tempo: 0.143457889557
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.06
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #379
+Tempo: 0.141620874405
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.06
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #380
+Tempo: 0.139479875565
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.06
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #381
+Tempo: 0.144265890121
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.08
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #382
+Tempo: 0.146500110626
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.08
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #383
+Tempo: 0.144629001617
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.08
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #384
+Tempo: 0.144133090973
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.08
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #385
+Tempo: 0.143784999847
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.08
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #386
+Tempo: 0.13810300827
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.08
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #387
+Tempo: 0.14004611969
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.08
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #388
+Tempo: 0.137154102325
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.08
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #389
+Tempo: 0.142139911652
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.08
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #390
+Tempo: 0.144819021225
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.08
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #391
+Tempo: 0.141570806503
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.1
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #392
+Tempo: 0.139069080353
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.1
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #393
+Tempo: 0.144638061523
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.1
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #394
+Tempo: 0.142915010452
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.1
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #395
+Tempo: 0.14417886734
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.1
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #396
+Tempo: 0.143043994904
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.1
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #397
+Tempo: 0.144376993179
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.1
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #398
+Tempo: 0.141699075699
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.1
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #399
+Tempo: 0.139472961426
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.1
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #400
+Tempo: 0.145030975342
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 10
+Gamma: 0.1
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #401
+Tempo: 0.135262966156
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.02
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #402
+Tempo: 0.139898061752
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.02
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #403
+Tempo: 0.144068956375
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.02
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #404
+Tempo: 0.145403146744
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.02
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #405
+Tempo: 0.140754938126
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.02
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #406
+Tempo: 0.13547205925
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.02
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #407
+Tempo: 0.137571811676
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.02
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #408
+Tempo: 0.135958909988
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.02
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #409
+Tempo: 0.137397050858
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.02
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #410
+Tempo: 0.139667034149
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.02
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #411
+Tempo: 0.137701034546
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.04
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #412
+Tempo: 0.139961004257
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.04
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #413
+Tempo: 0.139358997345
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.04
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #414
+Tempo: 0.141091108322
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.04
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #415
+Tempo: 0.142884969711
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.04
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #416
+Tempo: 0.139918088913
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.04
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #417
+Tempo: 0.147047996521
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.04
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #418
+Tempo: 0.143703222275
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.04
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #419
+Tempo: 0.139955043793
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.04
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #420
+Tempo: 0.140033006668
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.04
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #421
+Tempo: 0.136258125305
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.06
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #422
+Tempo: 0.136334896088
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.06
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #423
+Tempo: 0.143136024475
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.06
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #424
+Tempo: 0.144725799561
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.06
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #425
+Tempo: 0.140966892242
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.06
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #426
+Tempo: 0.140384912491
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.06
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #427
+Tempo: 0.138898134232
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.06
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #428
+Tempo: 0.145473003387
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.06
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #429
+Tempo: 0.141356945038
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.06
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #430
+Tempo: 0.144199848175
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.06
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #431
+Tempo: 0.135188817978
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.08
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #432
+Tempo: 0.135204076767
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.08
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #433
+Tempo: 0.138839006424
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.08
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #434
+Tempo: 0.13914513588
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.08
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #435
+Tempo: 0.140785217285
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.08
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #436
+Tempo: 0.142118930817
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.08
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #437
+Tempo: 0.139334917068
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.08
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #438
+Tempo: 0.14334487915
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.08
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #439
+Tempo: 0.143555879593
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.08
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #440
+Tempo: 0.1437728405
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.08
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #441
+Tempo: 0.135912895203
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.1
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #442
+Tempo: 0.139194011688
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.1
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #443
+Tempo: 0.142077922821
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.1
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #444
+Tempo: 0.14289188385
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.1
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #445
+Tempo: 0.146123886108
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.1
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #446
+Tempo: 0.14552283287
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.1
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #447
+Tempo: 0.144751787186
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.1
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #448
+Tempo: 0.139684915543
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.1
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #449
+Tempo: 0.141900062561
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.1
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #450
+Tempo: 0.143334150314
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 11
+Gamma: 0.1
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #451
+Tempo: 0.131022930145
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.02
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #452
+Tempo: 0.131947040558
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.02
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #453
+Tempo: 0.13204908371
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.02
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #454
+Tempo: 0.135869026184
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.02
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #455
+Tempo: 0.138072967529
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.02
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #456
+Tempo: 0.131537914276
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.02
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #457
+Tempo: 0.136744976044
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.02
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #458
+Tempo: 0.132859945297
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.02
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #459
+Tempo: 0.134302139282
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.02
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #460
+Tempo: 0.134730815887
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.02
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #461
+Tempo: 0.130765914917
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.04
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #462
+Tempo: 0.130446195602
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.04
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #463
+Tempo: 0.132254123688
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.04
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #464
+Tempo: 0.132910966873
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.04
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #465
+Tempo: 0.133326053619
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.04
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #466
+Tempo: 0.132919788361
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.04
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #467
+Tempo: 0.136600971222
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.04
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #468
+Tempo: 0.134009122849
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.04
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #469
+Tempo: 0.138961076736
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.04
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #470
+Tempo: 0.132089853287
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.04
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #471
+Tempo: 0.131316900253
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.06
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #472
+Tempo: 0.132511138916
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.06
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #473
+Tempo: 0.13339304924
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.06
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #474
+Tempo: 0.133795976639
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.06
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #475
+Tempo: 0.132022857666
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.06
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #476
+Tempo: 0.132786035538
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.06
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #477
+Tempo: 0.135768175125
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.06
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #478
+Tempo: 0.135119915009
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.06
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #479
+Tempo: 0.135078907013
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.06
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #480
+Tempo: 0.132997989655
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.06
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #481
+Tempo: 0.132805109024
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.08
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #482
+Tempo: 0.130409955978
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.08
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #483
+Tempo: 0.129717826843
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.08
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #484
+Tempo: 0.13247013092
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.08
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #485
+Tempo: 0.130346059799
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.08
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #486
+Tempo: 0.134808063507
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.08
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #487
+Tempo: 0.13280081749
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.08
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #488
+Tempo: 0.128452777863
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.08
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #489
+Tempo: 0.131953001022
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.08
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #490
+Tempo: 0.136122941971
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.08
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #491
+Tempo: 0.1329600811
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.1
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #492
+Tempo: 0.132423877716
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.1
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #493
+Tempo: 0.135761976242
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.1
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #494
+Tempo: 0.132632017136
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.1
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #495
+Tempo: 0.132568120956
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.1
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #496
+Tempo: 0.132688045502
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.1
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #497
+Tempo: 0.128951072693
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.1
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #498
+Tempo: 0.133449077606
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.1
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #499
+Tempo: 0.131121873856
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.1
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #500
+Tempo: 0.133960008621
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 12
+Gamma: 0.1
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #501
+Tempo: 0.129132986069
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.02
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #502
+Tempo: 0.131919145584
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.02
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #503
+Tempo: 0.131666183472
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.02
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #504
+Tempo: 0.127720117569
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.02
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #505
+Tempo: 0.129208803177
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.02
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #506
+Tempo: 0.131842851639
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.02
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #507
+Tempo: 0.126281023026
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.02
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #508
+Tempo: 0.133001089096
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.02
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #509
+Tempo: 0.137063026428
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.02
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #510
+Tempo: 0.133319854736
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.02
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #511
+Tempo: 0.129702091217
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.04
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #512
+Tempo: 0.129920005798
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.04
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #513
+Tempo: 0.130611896515
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.04
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #514
+Tempo: 0.129461050034
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.04
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #515
+Tempo: 0.129948139191
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.04
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #516
+Tempo: 0.128700971603
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.04
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #517
+Tempo: 0.127080917358
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.04
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #518
+Tempo: 0.131954908371
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.04
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #519
+Tempo: 0.13091802597
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.04
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #520
+Tempo: 0.13222193718
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.04
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #521
+Tempo: 0.12908911705
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.06
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #522
+Tempo: 0.128801107407
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.06
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #523
+Tempo: 0.127611875534
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.06
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #524
+Tempo: 0.129640817642
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.06
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #525
+Tempo: 0.126872777939
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.06
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #526
+Tempo: 0.125550031662
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.06
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #527
+Tempo: 0.130578041077
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.06
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #528
+Tempo: 0.12714600563
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.06
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #529
+Tempo: 0.124891042709
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.06
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #530
+Tempo: 0.127250909805
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.06
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #531
+Tempo: 0.128508090973
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.08
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #532
+Tempo: 0.127421140671
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.08
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #533
+Tempo: 0.129333972931
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.08
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #534
+Tempo: 0.128815889359
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.08
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #535
+Tempo: 0.130983829498
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.08
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #536
+Tempo: 0.126789093018
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.08
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #537
+Tempo: 0.129770994186
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.08
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #538
+Tempo: 0.128242969513
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.08
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #539
+Tempo: 0.129405021667
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.08
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #540
+Tempo: 0.127429008484
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.08
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #541
+Tempo: 0.130392074585
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.1
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #542
+Tempo: 0.129754066467
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.1
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #543
+Tempo: 0.129259824753
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.1
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #544
+Tempo: 0.128000020981
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.1
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #545
+Tempo: 0.130884885788
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.1
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #546
+Tempo: 0.131999015808
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.1
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #547
+Tempo: 0.127222061157
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.1
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #548
+Tempo: 0.128726959229
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.1
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #549
+Tempo: 0.1288189888
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.1
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #550
+Tempo: 0.129770040512
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 13
+Gamma: 0.1
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #551
+Tempo: 0.12717795372
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.02
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #552
+Tempo: 0.127016067505
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.02
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #553
+Tempo: 0.127810001373
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.02
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #554 <- Melhor Caso
+Tempo: 0.122114181519
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.02
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #555
+Tempo: 0.125961065292
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.02
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #556
+Tempo: 0.128445863724
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.02
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #557
+Tempo: 0.125997066498
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.02
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #558
+Tempo: 0.127836942673
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.02
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #559
+Tempo: 0.12811589241
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.02
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #560
+Tempo: 0.12831401825
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.02
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #561
+Tempo: 0.1255671978
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.04
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #562
+Tempo: 0.127571105957
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.04
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #563
+Tempo: 0.125102996826
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.04
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #564
+Tempo: 0.126099824905
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.04
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #565
+Tempo: 0.126840829849
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.04
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #566
+Tempo: 0.123776197433
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.04
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #567
+Tempo: 0.122196912766
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.04
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #568
+Tempo: 0.123021125793
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.04
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #569
+Tempo: 0.124851942062
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.04
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #570
+Tempo: 0.124128103256
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.04
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #571
+Tempo: 0.12459397316
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.06
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #572
+Tempo: 0.128280162811
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.06
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #573
+Tempo: 0.12525510788
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.06
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #574
+Tempo: 0.129670858383
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.06
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #575
+Tempo: 0.130514144897
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.06
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #576
+Tempo: 0.132035017014
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.06
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #577
+Tempo: 0.134531974792
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.06
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #578
+Tempo: 0.124410152435
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.06
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #579
+Tempo: 0.123797893524
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.06
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #580
+Tempo: 0.122678041458
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.06
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #581
+Tempo: 0.125133037567
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.08
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #582
+Tempo: 0.124716043472
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.08
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #583
+Tempo: 0.12570309639
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.08
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #584
+Tempo: 0.124796152115
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.08
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #585
+Tempo: 0.124256134033
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.08
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #586
+Tempo: 0.125310182571
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.08
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #587
+Tempo: 0.124474048615
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.08
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #588
+Tempo: 0.124026060104
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.08
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #589
+Tempo: 0.12563586235
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.08
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #590
+Tempo: 0.124651908875
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.08
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #591
+Tempo: 0.122755050659
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.1
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #592
+Tempo: 0.128420114517
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.1
+Coef0: 0.5
+-----------------------------------------
+
+Teste: #593
+Tempo: 0.123698949814
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.1
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #594
+Tempo: 0.128231048584
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.1
+Coef0: 1.5
+-----------------------------------------
+
+Teste: #595
+Tempo: 0.124746084213
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.1
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #596
+Tempo: 0.126009941101
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.1
+Coef0: 2.5
+-----------------------------------------
+
+Teste: #597
+Tempo: 0.129776000977
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.1
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #598
+Tempo: 0.127514123917
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.1
+Coef0: 3.5
+-----------------------------------------
+
+Teste: #599
+Tempo: 0.126830101013
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.1
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #600
+Tempo: 0.128591060638
+Taxa de Acerto: 100.0%
+
+Kernel: 'poly'
+Degree: 14
+Gamma: 0.1
+Coef0: 4.5
+-----------------------------------------
+
+Teste: #601
+Tempo: 1.63058900833
+Taxa de Acerto: 100.0%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.01
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #602
+Tempo: 2.44689106941
+Taxa de Acerto: 100.0%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.015
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #603
+Tempo: 4.17670798302
+Taxa de Acerto: 100.0%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.02
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #604
+Tempo: 4.68926620483
+Taxa de Acerto: 100.0%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.025
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #605
+Tempo: 5.12991499901
+Taxa de Acerto: 100.0%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.03
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #606
+Tempo: 5.15172886848
+Taxa de Acerto: 100.0%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.035
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #607
+Tempo: 5.60069513321
+Taxa de Acerto: 99.8461538462%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.04
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #608
+Tempo: 6.49137091637
+Taxa de Acerto: 99.3846153846%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.045
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #609
+Tempo: 7.96582913399
+Taxa de Acerto: 99.3846153846%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.05
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #610
+Tempo: 7.97573184967
+Taxa de Acerto: 99.3230769231%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.055
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #611
+Tempo: 8.82237195969
+Taxa de Acerto: 99.1076923077%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.06
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #612
+Tempo: 8.3783121109
+Taxa de Acerto: 98.4923076923%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.065
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #613
+Tempo: 8.38262414932
+Taxa de Acerto: 97.5692307692%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.07
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #614
+Tempo: 8.46716594696
+Taxa de Acerto: 97.1076923077%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.075
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #615
+Tempo: 8.04753613472
+Taxa de Acerto: 97.0153846154%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.08
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #616
+Tempo: 8.36427211761
+Taxa de Acerto: 97.0153846154%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.085
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #617
+Tempo: 7.89995408058
+Taxa de Acerto: 97.0153846154%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.09
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #618
+Tempo: 8.13552904129
+Taxa de Acerto: 97.0153846154%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.095
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #619
+Tempo: 8.04104113579
+Taxa de Acerto: 96.9846153846%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.1
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #620
+Tempo: 8.01455116272
+Taxa de Acerto: 96.8923076923%
+
+Kernel: 'rbf'
+Degree: 3
+Gamma: 0.105
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #621
+Tempo: 2.27630782127
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #622
+Tempo: 2.24012303352
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 0.2
+-----------------------------------------
+
+Teste: #623
+Tempo: 2.23976612091
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 0.4
+-----------------------------------------
+
+Teste: #624
+Tempo: 2.22005105019
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 0.6
+-----------------------------------------
+
+Teste: #625
+Tempo: 2.21794891357
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 0.8
+-----------------------------------------
+
+Teste: #626
+Tempo: 2.18034601212
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #627
+Tempo: 2.16603207588
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 1.2
+-----------------------------------------
+
+Teste: #628
+Tempo: 2.15528082848
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 1.4
+-----------------------------------------
+
+Teste: #629
+Tempo: 2.14897012711
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 1.6
+-----------------------------------------
+
+Teste: #630
+Tempo: 2.15983891487
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 1.8
+-----------------------------------------
+
+Teste: #631
+Tempo: 2.12269711494
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #632
+Tempo: 2.11225700378
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 2.2
+-----------------------------------------
+
+Teste: #633
+Tempo: 2.11678099632
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 2.4
+-----------------------------------------
+
+Teste: #634
+Tempo: 2.10740995407
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 2.6
+-----------------------------------------
+
+Teste: #635
+Tempo: 2.09381079674
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 2.8
+-----------------------------------------
+
+Teste: #636
+Tempo: 2.08610200882
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #637
+Tempo: 2.06894183159
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 3.2
+-----------------------------------------
+
+Teste: #638
+Tempo: 2.08505010605
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 3.4
+-----------------------------------------
+
+Teste: #639
+Tempo: 2.07661414146
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 3.6
+-----------------------------------------
+
+Teste: #640
+Tempo: 2.08421993256
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 3.8
+-----------------------------------------
+
+Teste: #641
+Tempo: 2.08902096748
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #642
+Tempo: 2.08499312401
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 4.2
+-----------------------------------------
+
+Teste: #643
+Tempo: 2.05093598366
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 4.4
+-----------------------------------------
+
+Teste: #644
+Tempo: 2.06017303467
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 4.6
+-----------------------------------------
+
+Teste: #645
+Tempo: 2.05963492393
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.01
+Coef0: 4.8
+-----------------------------------------
+
+Teste: #646
+Tempo: 2.03861999512
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #647
+Tempo: 2.03168988228
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 0.2
+-----------------------------------------
+
+Teste: #648
+Tempo: 2.04876708984
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 0.4
+-----------------------------------------
+
+Teste: #649
+Tempo: 2.02671599388
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 0.6
+-----------------------------------------
+
+Teste: #650
+Tempo: 2.04218506813
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 0.8
+-----------------------------------------
+
+Teste: #651
+Tempo: 2.06276321411
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #652
+Tempo: 2.04476714134
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 1.2
+-----------------------------------------
+
+Teste: #653
+Tempo: 2.05505180359
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 1.4
+-----------------------------------------
+
+Teste: #654
+Tempo: 2.04893302917
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 1.6
+-----------------------------------------
+
+Teste: #655
+Tempo: 2.05041098595
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 1.8
+-----------------------------------------
+
+Teste: #656
+Tempo: 2.03888893127
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #657
+Tempo: 2.04313397408
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 2.2
+-----------------------------------------
+
+Teste: #658
+Tempo: 2.05443692207
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 2.4
+-----------------------------------------
+
+Teste: #659
+Tempo: 2.06334900856
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 2.6
+-----------------------------------------
+
+Teste: #660
+Tempo: 2.04554390907
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 2.8
+-----------------------------------------
+
+Teste: #661
+Tempo: 2.05918002129
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #662
+Tempo: 2.04667496681
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 3.2
+-----------------------------------------
+
+Teste: #663
+Tempo: 2.03715395927
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 3.4
+-----------------------------------------
+
+Teste: #664
+Tempo: 2.05628299713
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 3.6
+-----------------------------------------
+
+Teste: #665
+Tempo: 2.05616402626
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 3.8
+-----------------------------------------
+
+Teste: #666
+Tempo: 2.04708886147
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #667
+Tempo: 2.07396602631
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 4.2
+-----------------------------------------
+
+Teste: #668
+Tempo: 2.05163693428
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 4.4
+-----------------------------------------
+
+Teste: #669
+Tempo: 2.04696702957
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 4.6
+-----------------------------------------
+
+Teste: #670
+Tempo: 2.03109812737
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.02
+Coef0: 4.8
+-----------------------------------------
+
+Teste: #671
+Tempo: 2.03407096863
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #672
+Tempo: 2.05840992928
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 0.2
+-----------------------------------------
+
+Teste: #673
+Tempo: 2.04676103592
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 0.4
+-----------------------------------------
+
+Teste: #674
+Tempo: 2.0435860157
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 0.6
+-----------------------------------------
+
+Teste: #675
+Tempo: 2.05164909363
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 0.8
+-----------------------------------------
+
+Teste: #676
+Tempo: 2.03143405914
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #677
+Tempo: 2.03879499435
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 1.2
+-----------------------------------------
+
+Teste: #678
+Tempo: 2.04842615128
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 1.4
+-----------------------------------------
+
+Teste: #679
+Tempo: 2.05973601341
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 1.6
+-----------------------------------------
+
+Teste: #680
+Tempo: 2.05234408379
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 1.8
+-----------------------------------------
+
+Teste: #681
+Tempo: 2.04428315163
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #682
+Tempo: 2.04754400253
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 2.2
+-----------------------------------------
+
+Teste: #683
+Tempo: 2.03197407722
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 2.4
+-----------------------------------------
+
+Teste: #684
+Tempo: 2.06452679634
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 2.6
+-----------------------------------------
+
+Teste: #685
+Tempo: 2.04438495636
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 2.8
+-----------------------------------------
+
+Teste: #686
+Tempo: 2.07704305649
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #687
+Tempo: 2.05203509331
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 3.2
+-----------------------------------------
+
+Teste: #688
+Tempo: 2.05356001854
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 3.4
+-----------------------------------------
+
+Teste: #689
+Tempo: 2.05782699585
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 3.6
+-----------------------------------------
+
+Teste: #690
+Tempo: 2.06665205956
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 3.8
+-----------------------------------------
+
+Teste: #691
+Tempo: 2.07446217537
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #692
+Tempo: 2.08189702034
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 4.2
+-----------------------------------------
+
+Teste: #693
+Tempo: 2.07487678528
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 4.4
+-----------------------------------------
+
+Teste: #694
+Tempo: 2.08427190781
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 4.6
+-----------------------------------------
+
+Teste: #695
+Tempo: 2.08053398132
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.03
+Coef0: 4.8
+-----------------------------------------
+
+Teste: #696
+Tempo: 2.0911989212
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #697
+Tempo: 2.08429002762
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 0.2
+-----------------------------------------
+
+Teste: #698
+Tempo: 2.10392379761
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 0.4
+-----------------------------------------
+
+Teste: #699
+Tempo: 2.06986498833
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 0.6
+-----------------------------------------
+
+Teste: #700
+Tempo: 2.08357906342
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 0.8
+-----------------------------------------
+
+Teste: #701
+Tempo: 2.08624601364
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #702
+Tempo: 2.07323098183
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 1.2
+-----------------------------------------
+
+Teste: #703
+Tempo: 2.06816506386
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 1.4
+-----------------------------------------
+
+Teste: #704
+Tempo: 2.08845305443
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 1.6
+-----------------------------------------
+
+Teste: #705
+Tempo: 2.08075118065
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 1.8
+-----------------------------------------
+
+Teste: #706
+Tempo: 2.12928390503
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #707
+Tempo: 2.08025407791
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 2.2
+-----------------------------------------
+
+Teste: #708
+Tempo: 2.08206486702
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 2.4
+-----------------------------------------
+
+Teste: #709
+Tempo: 2.07374596596
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 2.6
+-----------------------------------------
+
+Teste: #710
+Tempo: 2.07951188087
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 2.8
+-----------------------------------------
+
+Teste: #711
+Tempo: 2.08967018127
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #712
+Tempo: 2.07962393761
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 3.2
+-----------------------------------------
+
+Teste: #713
+Tempo: 2.09848618507
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 3.4
+-----------------------------------------
+
+Teste: #714
+Tempo: 2.08359098434
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 3.6
+-----------------------------------------
+
+Teste: #715
+Tempo: 2.08880591393
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 3.8
+-----------------------------------------
+
+Teste: #716
+Tempo: 2.08217000961
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #717
+Tempo: 2.07507300377
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 4.2
+-----------------------------------------
+
+Teste: #718
+Tempo: 2.08460688591
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 4.4
+-----------------------------------------
+
+Teste: #719
+Tempo: 2.0760281086
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 4.6
+-----------------------------------------
+
+Teste: #720
+Tempo: 2.06912493706
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.04
+Coef0: 4.8
+-----------------------------------------
+
+Teste: #721
+Tempo: 2.13314199448
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #722
+Tempo: 2.41275286674
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 0.2
+-----------------------------------------
+
+Teste: #723
+Tempo: 2.38815498352
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 0.4
+-----------------------------------------
+
+Teste: #724
+Tempo: 2.16973996162
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 0.6
+-----------------------------------------
+
+Teste: #725
+Tempo: 2.09018111229
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 0.8
+-----------------------------------------
+
+Teste: #726
+Tempo: 2.08834695816
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #727
+Tempo: 2.09278202057
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 1.2
+-----------------------------------------
+
+Teste: #728
+Tempo: 2.08989405632
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 1.4
+-----------------------------------------
+
+Teste: #729
+Tempo: 2.09291005135
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 1.6
+-----------------------------------------
+
+Teste: #730
+Tempo: 2.07532691956
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 1.8
+-----------------------------------------
+
+Teste: #731
+Tempo: 2.15892291069
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #732
+Tempo: 2.10210680962
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 2.2
+-----------------------------------------
+
+Teste: #733
+Tempo: 2.07147097588
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 2.4
+-----------------------------------------
+
+Teste: #734
+Tempo: 2.07864308357
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 2.6
+-----------------------------------------
+
+Teste: #735
+Tempo: 2.07299494743
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 2.8
+-----------------------------------------
+
+Teste: #736
+Tempo: 2.08116412163
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #737
+Tempo: 2.07440781593
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 3.2
+-----------------------------------------
+
+Teste: #738
+Tempo: 2.06637406349
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 3.4
+-----------------------------------------
+
+Teste: #739
+Tempo: 2.082228899
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 3.6
+-----------------------------------------
+
+Teste: #740
+Tempo: 2.07680583
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 3.8
+-----------------------------------------
+
+Teste: #741
+Tempo: 2.08688497543
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #742
+Tempo: 2.06610393524
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 4.2
+-----------------------------------------
+
+Teste: #743
+Tempo: 2.07979011536
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 4.4
+-----------------------------------------
+
+Teste: #744
+Tempo: 2.07659602165
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 4.6
+-----------------------------------------
+
+Teste: #745
+Tempo: 2.07833600044
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.05
+Coef0: 4.8
+-----------------------------------------
+
+Teste: #746
+Tempo: 2.11449098587
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #747
+Tempo: 2.07085394859
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 0.2
+-----------------------------------------
+
+Teste: #748
+Tempo: 2.0922100544
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 0.4
+-----------------------------------------
+
+Teste: #749
+Tempo: 2.07685995102
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 0.6
+-----------------------------------------
+
+Teste: #750
+Tempo: 2.07579994202
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 0.8
+-----------------------------------------
+
+Teste: #751
+Tempo: 2.07484793663
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #752
+Tempo: 2.10192799568
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 1.2
+-----------------------------------------
+
+Teste: #753
+Tempo: 2.08158779144
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 1.4
+-----------------------------------------
+
+Teste: #754
+Tempo: 2.07765412331
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 1.6
+-----------------------------------------
+
+Teste: #755
+Tempo: 2.07741308212
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 1.8
+-----------------------------------------
+
+Teste: #756
+Tempo: 2.08019089699
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #757
+Tempo: 2.07433199883
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 2.2
+-----------------------------------------
+
+Teste: #758
+Tempo: 2.06781816483
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 2.4
+-----------------------------------------
+
+Teste: #759
+Tempo: 2.06967496872
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 2.6
+-----------------------------------------
+
+Teste: #760
+Tempo: 2.08100700378
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 2.8
+-----------------------------------------
+
+Teste: #761
+Tempo: 2.07968091965
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #762
+Tempo: 2.07387113571
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 3.2
+-----------------------------------------
+
+Teste: #763
+Tempo: 2.07211613655
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 3.4
+-----------------------------------------
+
+Teste: #764
+Tempo: 2.07118105888
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 3.6
+-----------------------------------------
+
+Teste: #765
+Tempo: 2.09469509125
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 3.8
+-----------------------------------------
+
+Teste: #766
+Tempo: 2.08123207092
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #767
+Tempo: 2.08229279518
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 4.2
+-----------------------------------------
+
+Teste: #768
+Tempo: 2.08594679832
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 4.4
+-----------------------------------------
+
+Teste: #769
+Tempo: 2.07544517517
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 4.6
+-----------------------------------------
+
+Teste: #770
+Tempo: 2.08100581169
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.06
+Coef0: 4.8
+-----------------------------------------
+
+Teste: #771
+Tempo: 2.06932210922
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #772
+Tempo: 2.08762001991
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 0.2
+-----------------------------------------
+
+Teste: #773
+Tempo: 2.09320688248
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 0.4
+-----------------------------------------
+
+Teste: #774
+Tempo: 2.14441609383
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 0.6
+-----------------------------------------
+
+Teste: #775
+Tempo: 2.12263894081
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 0.8
+-----------------------------------------
+
+Teste: #776
+Tempo: 2.0747730732
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #777
+Tempo: 2.11142992973
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 1.2
+-----------------------------------------
+
+Teste: #778
+Tempo: 2.08547210693
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 1.4
+-----------------------------------------
+
+Teste: #779
+Tempo: 2.07311892509
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 1.6
+-----------------------------------------
+
+Teste: #780
+Tempo: 2.10130286217
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 1.8
+-----------------------------------------
+
+Teste: #781
+Tempo: 2.12522292137
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #782
+Tempo: 2.07644319534
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 2.2
+-----------------------------------------
+
+Teste: #783
+Tempo: 2.08064198494
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 2.4
+-----------------------------------------
+
+Teste: #784
+Tempo: 2.07679986954
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 2.6
+-----------------------------------------
+
+Teste: #785
+Tempo: 2.06715393066
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 2.8
+-----------------------------------------
+
+Teste: #786
+Tempo: 2.07013487816
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #787
+Tempo: 2.06933808327
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 3.2
+-----------------------------------------
+
+Teste: #788
+Tempo: 2.09214186668
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 3.4
+-----------------------------------------
+
+Teste: #789
+Tempo: 2.08476996422
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 3.6
+-----------------------------------------
+
+Teste: #790
+Tempo: 2.07768201828
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 3.8
+-----------------------------------------
+
+Teste: #791
+Tempo: 2.0745909214
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #792
+Tempo: 2.07172703743
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 4.2
+-----------------------------------------
+
+Teste: #793
+Tempo: 2.0770380497
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 4.4
+-----------------------------------------
+
+Teste: #794
+Tempo: 2.07772684097
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 4.6
+-----------------------------------------
+
+Teste: #795
+Tempo: 2.0731818676
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.07
+Coef0: 4.8
+-----------------------------------------
+
+Teste: #796
+Tempo: 2.09114599228
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #797
+Tempo: 2.07797503471
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 0.2
+-----------------------------------------
+
+Teste: #798
+Tempo: 2.07203507423
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 0.4
+-----------------------------------------
+
+Teste: #799
+Tempo: 2.07424712181
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 0.6
+-----------------------------------------
+
+Teste: #800
+Tempo: 2.07716202736
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 0.8
+-----------------------------------------
+
+Teste: #801
+Tempo: 2.07353401184
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #802
+Tempo: 2.06520104408
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 1.2
+-----------------------------------------
+
+Teste: #803
+Tempo: 2.0739428997
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 1.4
+-----------------------------------------
+
+Teste: #804
+Tempo: 2.08024191856
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 1.6
+-----------------------------------------
+
+Teste: #805
+Tempo: 2.07204294205
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 1.8
+-----------------------------------------
+
+Teste: #806
+Tempo: 2.06873106956
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #807
+Tempo: 2.07265996933
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 2.2
+-----------------------------------------
+
+Teste: #808
+Tempo: 2.08595204353
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 2.4
+-----------------------------------------
+
+Teste: #809
+Tempo: 2.0850610733
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 2.6
+-----------------------------------------
+
+Teste: #810
+Tempo: 2.06550121307
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 2.8
+-----------------------------------------
+
+Teste: #811
+Tempo: 2.07339906693
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #812
+Tempo: 2.0936498642
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 3.2
+-----------------------------------------
+
+Teste: #813
+Tempo: 2.07263112068
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 3.4
+-----------------------------------------
+
+Teste: #814
+Tempo: 2.07620096207
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 3.6
+-----------------------------------------
+
+Teste: #815
+Tempo: 2.08285593987
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 3.8
+-----------------------------------------
+
+Teste: #816
+Tempo: 2.08301091194
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #817
+Tempo: 2.07790398598
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 4.2
+-----------------------------------------
+
+Teste: #818
+Tempo: 2.07272982597
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 4.4
+-----------------------------------------
+
+Teste: #819
+Tempo: 2.07036399841
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 4.6
+-----------------------------------------
+
+Teste: #820
+Tempo: 2.07722496986
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.08
+Coef0: 4.8
+-----------------------------------------
+
+Teste: #821
+Tempo: 2.08550810814
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #822
+Tempo: 2.08270406723
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 0.2
+-----------------------------------------
+
+Teste: #823
+Tempo: 2.08406591415
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 0.4
+-----------------------------------------
+
+Teste: #824
+Tempo: 2.09376382828
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 0.6
+-----------------------------------------
+
+Teste: #825
+Tempo: 2.11132001877
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 0.8
+-----------------------------------------
+
+Teste: #826
+Tempo: 2.09277701378
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #827
+Tempo: 2.09427976608
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 1.2
+-----------------------------------------
+
+Teste: #828
+Tempo: 2.08078193665
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 1.4
+-----------------------------------------
+
+Teste: #829
+Tempo: 2.09131789207
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 1.6
+-----------------------------------------
+
+Teste: #830
+Tempo: 2.08691191673
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 1.8
+-----------------------------------------
+
+Teste: #831
+Tempo: 2.08414697647
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #832
+Tempo: 2.08647012711
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 2.2
+-----------------------------------------
+
+Teste: #833
+Tempo: 2.07445001602
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 2.4
+-----------------------------------------
+
+Teste: #834
+Tempo: 2.07595300674
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 2.6
+-----------------------------------------
+
+Teste: #835
+Tempo: 2.08019685745
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 2.8
+-----------------------------------------
+
+Teste: #836
+Tempo: 2.08428382874
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #837
+Tempo: 2.07971906662
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 3.2
+-----------------------------------------
+
+Teste: #838
+Tempo: 2.08898305893
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 3.4
+-----------------------------------------
+
+Teste: #839
+Tempo: 2.07833313942
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 3.6
+-----------------------------------------
+
+Teste: #840
+Tempo: 2.07683610916
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 3.8
+-----------------------------------------
+
+Teste: #841
+Tempo: 2.08074116707
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #842
+Tempo: 2.07869815826
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 4.2
+-----------------------------------------
+
+Teste: #843
+Tempo: 2.08606505394
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 4.4
+-----------------------------------------
+
+Teste: #844
+Tempo: 2.0897731781
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 4.6
+-----------------------------------------
+
+Teste: #845
+Tempo: 2.07937097549
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.09
+Coef0: 4.8
+-----------------------------------------
+
+Teste: #846
+Tempo: 2.08542704582
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #847
+Tempo: 2.1447789669
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 0.2
+-----------------------------------------
+
+Teste: #848
+Tempo: 2.36786699295
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 0.4
+-----------------------------------------
+
+Teste: #849
+Tempo: 2.0962998867
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 0.6
+-----------------------------------------
+
+Teste: #850
+Tempo: 2.08234810829
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 0.8
+-----------------------------------------
+
+Teste: #851
+Tempo: 2.08559799194
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #852
+Tempo: 2.08181095123
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 1.2
+-----------------------------------------
+
+Teste: #853
+Tempo: 2.07773089409
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 1.4
+-----------------------------------------
+
+Teste: #854
+Tempo: 2.08152699471
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 1.6
+-----------------------------------------
+
+Teste: #855
+Tempo: 2.0767159462
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 1.8
+-----------------------------------------
+
+Teste: #856
+Tempo: 2.07570505142
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #857
+Tempo: 2.10548496246
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 2.2
+-----------------------------------------
+
+Teste: #858
+Tempo: 2.08914089203
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 2.4
+-----------------------------------------
+
+Teste: #859
+Tempo: 2.07660102844
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 2.6
+-----------------------------------------
+
+Teste: #860
+Tempo: 2.07498598099
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 2.8
+-----------------------------------------
+
+Teste: #861
+Tempo: 2.07318282127
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #862
+Tempo: 2.08946013451
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 3.2
+-----------------------------------------
+
+Teste: #863
+Tempo: 2.07806396484
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 3.4
+-----------------------------------------
+
+Teste: #864
+Tempo: 2.07275891304
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 3.6
+-----------------------------------------
+
+Teste: #865
+Tempo: 2.0680129528
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 3.8
+-----------------------------------------
+
+Teste: #866
+Tempo: 2.08037996292
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #867
+Tempo: 2.08756089211
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 4.2
+-----------------------------------------
+
+Teste: #868
+Tempo: 2.07341599464
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 4.4
+-----------------------------------------
+
+Teste: #869
+Tempo: 2.07741713524
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 4.6
+-----------------------------------------
+
+Teste: #870
+Tempo: 2.08226704597
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.1
+Coef0: 4.8
+-----------------------------------------
+
+Teste: #871
+Tempo: 2.07841801643
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 0.0
+-----------------------------------------
+
+Teste: #872
+Tempo: 2.08586215973
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 0.2
+-----------------------------------------
+
+Teste: #873
+Tempo: 2.07780408859
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 0.4
+-----------------------------------------
+
+Teste: #874
+Tempo: 2.07436203957
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 0.6
+-----------------------------------------
+
+Teste: #875
+Tempo: 2.07425403595
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 0.8
+-----------------------------------------
+
+Teste: #876
+Tempo: 2.07817101479
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 1.0
+-----------------------------------------
+
+Teste: #877
+Tempo: 2.08358812332
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 1.2
+-----------------------------------------
+
+Teste: #878
+Tempo: 2.06846094131
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 1.4
+-----------------------------------------
+
+Teste: #879
+Tempo: 2.09350180626
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 1.6
+-----------------------------------------
+
+Teste: #880
+Tempo: 2.0723400116
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 1.8
+-----------------------------------------
+
+Teste: #881
+Tempo: 2.07918310165
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 2.0
+-----------------------------------------
+
+Teste: #882
+Tempo: 2.09094882011
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 2.2
+-----------------------------------------
+
+Teste: #883
+Tempo: 2.07745504379
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 2.4
+-----------------------------------------
+
+Teste: #884
+Tempo: 2.07988500595
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 2.6
+-----------------------------------------
+
+Teste: #885
+Tempo: 2.08574295044
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 2.8
+-----------------------------------------
+
+Teste: #886
+Tempo: 2.1199901104
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 3.0
+-----------------------------------------
+
+Teste: #887
+Tempo: 2.09294509888
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 3.2
+-----------------------------------------
+
+Teste: #888
+Tempo: 2.1152369976
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 3.4
+-----------------------------------------
+
+Teste: #889
+Tempo: 2.07509183884
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 3.6
+-----------------------------------------
+
+Teste: #890
+Tempo: 2.08631896973
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 3.8
+-----------------------------------------
+
+Teste: #891
+Tempo: 2.09145188332
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 4.0
+-----------------------------------------
+
+Teste: #892
+Tempo: 2.07403182983
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 4.2
+-----------------------------------------
+
+Teste: #893
+Tempo: 2.0858669281
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 4.4
+-----------------------------------------
+
+Teste: #894
+Tempo: 2.07577395439
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 4.6
+-----------------------------------------
+
+Teste: #895
+Tempo: 2.07561898232
+Taxa de Acerto: 51.6307692308%
+
+Kernel: 'sigmoid'
+Degree: 3
+Gamma: 0.11
+Coef0: 4.8
+-----------------------------------------
+
